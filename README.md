@@ -1,6 +1,6 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
-https://becryptmaster.netlify.app
+https://becryptcryptotracker.netlify.app/
 ## Built with 
 
 - [React JS](https://reactjs.org/)
